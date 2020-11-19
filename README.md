@@ -9,4 +9,4 @@ Also I wanted to know how to put password after clicking "Get result" because th
 
 If anybody knows how to put the password pls let me know in the issue section
 
-THank you :)
+Thank you :)
