@@ -1,6 +1,9 @@
 This is a election system example.
 All the candidates are just for demonstration purpose.
-* No copyright intended
+
+No copyright intended
+
+
 Just click on the picture of the candidate to vote. 
 And to see the results pls click on "Get result"
 
